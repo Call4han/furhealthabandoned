@@ -1,0 +1,6 @@
+Health-max: 100
+Health-min: 20
+Health-increase: 2
+Health-decrease: 2 #Fix increase and decrease
+Health-base: 20
+

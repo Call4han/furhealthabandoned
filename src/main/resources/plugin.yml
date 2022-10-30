@@ -1,0 +1,9 @@
+name: FurHealth
+version: 0.0.1
+author: Callahan
+main: me.callahandev.FurHealth
+description: Plugin MongoDB
+api-version: 1.19
+commands:
+  FurHealth:
+    description: Command Main FurHealth
